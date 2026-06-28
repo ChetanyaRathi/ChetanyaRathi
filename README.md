@@ -2,7 +2,7 @@
 
 Hi, I'm **Chetanya Rathi** 👋 - A software engineer with interests across **AI agents**, **backend systems**, and **intelligent web applications**.
 
-I'm currently pursuing my **MS in Computer Science at Syracuse University**, working on **Generative AI**, **RAG pipelines**, and **scalable Python applications**. I enjoy taking complex AI concepts and turning them into **functional, user-centric products**.
+I have completed my **Masters in Computer Science at Syracuse University**, working on **Generative AI**, **RAG pipelines**, and **scalable Python applications**. I enjoy taking complex AI concepts and turning them into **functional, user-centric products**.
 
 My experience spans **Python, C++, React, and Large Language Models**. I care deeply about **clean code**, **system architecture**, and **solving real-world problems** through technology.
 
